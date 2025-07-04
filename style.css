@@ -1,0 +1,64 @@
+html{
+
+    background-color: rgba(63, 60, 60, 0.966);
+    margin: 0px;
+    color: white;
+
+}
+
+header{
+
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 10px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+
+}
+
+input{
+
+    border: rgba(126, 120, 120, 0.836) 2px solid;
+    background-color: rgb(126, 120, 120)  ;
+    height: 30px;
+    border-radius: 60px;
+}
+
+button{
+
+    border-radius: 5px;
+    border: gray 2px solid;
+    background-color: gray;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    
+}
+
+.logo{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0px;
+
+}
+
+.buscador{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+
+.integar{
+
+    display: flex;
+    flex-direction: row;
+    padding: 10;
+    justify-content: center;
+    gap: 10px;
+
+}
